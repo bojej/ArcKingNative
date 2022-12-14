@@ -11,6 +11,12 @@ To run in web (`npx expo start` will prompt for this later)
 npx expo install react-native-web@~0.18.9 react-dom@18.1.0 @expo/webpack-config@^0.17.2
 ```
 
+## After clone
+```
+npm install
+npx expo start
+```
+
 ## Create app and run
 ```
 npx create-expo-app ArcKing
